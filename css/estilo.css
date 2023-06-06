@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box; 
+}
+
+.btn-group{
+    /* background-color: aqua; */
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+
+.row{
+    background-color: red;
+    width: 160px;
+    position: fixed;
+
+}
+
+.build{
+    width: 150px;
+
+}
+
+.btn{
+   /* background-color: blueviolet; */
+   margin: 10px;
+   display: flex;
+   flex-wrap: wrap;
+
+}
+
+div.table{
+    display: inline-block;
+    width: 100px;
+    position: relative;
+    margin-left: 46px;
+}
